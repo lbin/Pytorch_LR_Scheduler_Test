@@ -75,4 +75,4 @@ DeprecationWarning: The epoch parameter in `scheduler.step()` was not necessary 
 - https://github.com/pytorch/pytorch/pull/27254
 - https://github.com/pytorch/pytorch/pull/28217
 - https://github.com/pytorch/pytorch/pull/25324
-- https://github.com/pytorch/pytorch/pull/7889
+- https://github.com/pytorch/pytorch/pull/7889e
